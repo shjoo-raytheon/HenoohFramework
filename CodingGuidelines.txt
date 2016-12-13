@@ -2,4 +2,6 @@ Coding Guidelines
 
 Making changes without creating a new branch.
 
+What are good coding guidelines?
+
 www.henooh.com is a great resource for coding guidelines.
